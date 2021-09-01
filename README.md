@@ -1,6 +1,8 @@
 # Base_datos_notas
 Entregable Base de Datos DH
 
+
+## DIAGRAMA
 La base de datos de notas contiene 4 tablas. 
 
 La primera USUARIOS contiene los datos personales del usuario (nombre, apellido y e-mail). A su vez el id del usuario es clave foranea para la tabla NOTAS ya que una nota pertence a un unico usuario, pero un usuario puede crear, modificar o eliminar muchas notas. 
